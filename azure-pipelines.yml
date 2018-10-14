@@ -10,6 +10,5 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- script: cd net-core-ui
-- script: dotnet build --configuration $(buildConfiguration)
+- script: dotnet build --configuration $(buildConfiguration) --source ./dot-net-ui
   displayName: 'dotnet build $(buildConfiguration)'
