@@ -1,0 +1,9 @@
+[submodule "net-core-ui"]
+	path = net-core-ui
+	url = git@github.com:Meta-Atomic/net-core-ui.git
+[submodule "net-core-api"]
+	path = net-core-api
+	url = git@github.com:Meta-Atomic/net-core-api.git
+[submodule "net-core-micro-api"]
+	path = net-core-micro-api
+	url = git@github.com:Meta-Atomic/net-core-micro-api.git
