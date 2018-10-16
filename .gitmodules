@@ -1,6 +1,7 @@
 [submodule "net-core-ui"]
 	path = net-core-ui
 	url = https://github.com/Meta-Atomic/net-core-ui.git
+	branch = test-b
 [submodule "net-core-api"]
 	path = net-core-api
 	url = https://github.com/Meta-Atomic/net-core-api.git
